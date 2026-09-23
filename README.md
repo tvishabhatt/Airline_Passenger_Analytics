@@ -96,7 +96,7 @@ Opens at **http://localhost:8501** — all filters, KPIs, and charts are interac
 ### Open the Jupyter Notebook
 
 ```bash
-jupyter notebook Tvisha_AirlinePassengerAnalytics.ipynb
+jupyter notebook Tvisha_Airline_Passenger_Analytics.ipynb
 ```
 
 Run all cells from top to bottom. The notebook is fully self-contained — no external imports required.

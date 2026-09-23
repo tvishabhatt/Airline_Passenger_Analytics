@@ -1,4 +1,4 @@
-﻿# Airline Passenger Experience & Satisfaction Analytics Dashboard
+# Airline Passenger Experience & Satisfaction Analytics Dashboard
 
 > **Submitted by:** Tvisha Bhatt 
 > **Dataset:** [airline_passenger_satisfaction.csv](./airline_passenger_satisfaction.csv) — 129,880 rows × 24 columns  
@@ -151,4 +151,4 @@ Airline_Passenger_Analytics/
 
 ---
 
-_Airline Passenger Experience & Satisfaction Analytics Dashboard · Tvisha_
+_Airline Passenger Experience & Satisfaction Analytics Dashboard - Bhatt Tvisha_

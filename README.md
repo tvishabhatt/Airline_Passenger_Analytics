@@ -24,7 +24,7 @@ The final product is an **interactive Streamlit dashboard** backed by a reusable
 
 | File | Format | Description |
 |---|---|---|
-| `Tvisha_AirlinePassengerAnalytics.ipynb` | `.ipynb` | Complete analytical workflow (code file) |
+| `Tvisha_Airline_Passenger_Analytics.ipynb` | `.ipynb` | Complete analytical workflow (code file) |
 | `requirements.txt` | `.txt` | Python dependencies |
 | `Tvisha_ProjectReport.docx` | `.docx` | Full project documentation |
 | `README.md` | `.md` | This file |
@@ -130,7 +130,7 @@ Run all cells from top to bottom. The notebook is fully self-contained — no ex
 ```
 Airline_Passenger_Analytics/
 │
-├── Tvisha_AirlinePassengerAnalytics.ipynb  ← Submit: code file (.ipynb)
+├── Tvisha_Airline_Passenger_Analytics.ipynb  ← Submit: code file (.ipynb)
 ├── requirements.txt                         ← Submit: requirements file (.txt)
 ├── Tvisha_ProjectReport.docx               ← Submit: project report (.docx)
 ├── README.md                               ← Submit: README file (.md)
